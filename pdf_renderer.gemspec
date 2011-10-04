@@ -1,6 +1,7 @@
 # Provide a simple gemspec so you can easily use your enginex
 # project in your rails apps through git.
 Gem::Specification.new do |s|
+  s.author="ben"
   s.name = "pdf_renderer"
   s.summary = "Insert PdfRenderer summary."
   s.description = "Insert PdfRenderer description."
